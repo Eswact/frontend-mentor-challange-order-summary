@@ -4,7 +4,7 @@ body {
     
 #box {
     background-color: white;
-    margin: 137px auto auto auto;
+    margin: 5% auto;
     height: 675px;   
     width: 500px;
     border-radius: 20px;
@@ -12,15 +12,15 @@ body {
 }
     
 #fb {
-    height: 225px;
-    width: 500px;
+    height: 222px;
+    width: 100%;
     background-image: url(assets/illustration-hero.svg);
     border-radius: 20px 20px 0px 0px;
 }
     
     
 #bas { 
-    margin-top: 50px;
+    margin-top: 45px;
     text-align: center;
     font-size: 28px;
     color: rgb(22, 17, 44);
@@ -54,7 +54,7 @@ body {
 button {
     height: 50px;
     width: 350px;
-    margin-top: 30px;
+    margin-top: 37px;
     margin-left: 75px;
     margin-right: 75px;
     margin-bottom: 25px;
