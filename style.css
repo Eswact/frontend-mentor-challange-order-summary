@@ -1,10 +1,13 @@
 body {
     background-color: #D6E1FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 98vh;
 }
     
 #box {
     background-color: white;
-    margin: 5% auto;
     height: 675px;   
     width: 500px;
     border-radius: 20px;
