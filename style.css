@@ -121,4 +121,35 @@ button:hover {
 #pp2 {
     color: #999DA6;
 }
-    
+
+@media screen and (max-width: 520px){
+    #box {
+        height: auto;
+        width: 90%;
+        padding-bottom: 10px;
+    }
+
+    #fb{
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    #bas{
+        margin-top: 20px;
+    }
+
+    #p1{
+        margin: 10px 20px;
+    }
+
+    #sb{
+        width: 70%;
+        margin-top: 30px;
+        border-radius: 20px;
+    }
+
+    #but{
+        width: 70%;
+        margin: 20px 15%;
+    }
+}
